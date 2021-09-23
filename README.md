@@ -1,6 +1,6 @@
 # Unscramble-Opencv
 
-This is a fun game in which you have form meaningful words from the given letters within a time frame.
+This is a fun game in which you have to form meaningful words from the given letters within a time frame.
 Developed using OpenCV and Mediapipe
 
 ## Demo video:
